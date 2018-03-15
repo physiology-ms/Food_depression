@@ -7,6 +7,7 @@ Created on Fri Jun  2 10:39:31 2017
 
 import os
 os.chdir(r"C:\Users\physiology\Desktop\food")
+import warnings
 
 import numpy as np
 import pandas as pd
