@@ -5,6 +5,8 @@ Created on Wed Mar  7 19:10:55 2018
 @author: physiology
 """
 
+import warnings
+
 import os
 os.chdir(r"C:\Users\physiology\Desktop\food")
 import numpy as np
